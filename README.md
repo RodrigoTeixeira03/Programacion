@@ -2,6 +2,7 @@
 ==================================================================
 
 ##**Nombres:** *Rodrigo Teixeira Gonzalez*
+
 ##**Correo electronico de contacto:** *rodrigo.teixeira.gonzalez@utelvt.edu.ec*
 __________________________________________________________________
 
