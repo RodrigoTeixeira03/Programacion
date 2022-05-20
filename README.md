@@ -8,13 +8,18 @@ __________________________________________________________________
 
 ###Este es el video de mi primera actividad en la carrera de TICS "A"donde me podran conocer: [INTRODUCCION A LA PROGRAMACION Y LENGUAJE DE PROGRAMACION] [1]
 
-##**PROGRAMAS DESARROLLADOS:**
+**PROGRAMAS DESARROLLADOS:**
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 1.Comparacion de dos numeros
+
 2.Contador de monedas
+
 3.Punto de venta
+
 4.Suma de numeros
+
 5.Dispensador de edad con meses y dias
 
 __________________________________________________________________
