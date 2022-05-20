@@ -1,16 +1,16 @@
-#**PROGRAMA EN C++ DE RODRIGO TEIXEIRA GONZALEZ**
+**PROGRAMA EN C++ DE RODRIGO TEIXEIRA GONZALEZ**
 ==================================================================
 
-##**Nombres:** *Rodrigo Teixeira Gonzalez*
+**Nombres:** *Rodrigo Teixeira Gonzalez*
 
-##**Correo electronico de contacto:** *rodrigo.teixeira.gonzalez@utelvt.edu.ec*
+**Correo electronico de contacto:** *rodrigo.teixeira.gonzalez@utelvt.edu.ec*
 __________________________________________________________________
 
-###Este es el video de mi primera actividad en la carrera de TICS "A"donde me podran conocer: [INTRODUCCION A LA PROGRAMACION Y LENGUAJE DE PROGRAMACION] [1]
+Este es el video de mi primera actividad en la carrera de TICS "A"donde me podran conocer: [INTRODUCCION A LA PROGRAMACION Y LENGUAJE DE PROGRAMACION] [1]
 
 **PROGRAMAS DESARROLLADOS:**
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
 
 1.Comparacion de dos numeros
 
@@ -24,7 +24,7 @@ __________________________________________________________________
 
 __________________________________________________________________
 
-###**Links:**
+**Links:**
 [1]:https://youtu.be/Kx3TT4q_3_A
 
 
