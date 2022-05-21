@@ -4,11 +4,11 @@
 ##**Nombres:** *Rodrigo Teixeira Gonzalez*
 
 ##**Correo electronico de contacto:** *rodrigo.teixeira.gonzalez@utelvt.edu.ec*
-__________________________________________________________________
+------------------------------------------------------------------
 
 ###Este es el video de mi primera actividad en la carrera de TICS "A"donde me podran conocer: [INTRODUCCION A LA PROGRAMACION Y LENGUAJE DE PROGRAMACION] (/https://youtu.be/Kx3TT4q_3_A)
 
-##**PROGRAMAS QUE HE  DESARROLLADOS:**
+###**PROGRAMAS QUE HE  DESARROLLADOS:**
 
 1.**Comparacion de dos numeros**
 
@@ -29,6 +29,24 @@ __________________________________________________________________
 5.**Dispensador de edad con meses y dias**
 
 ###*El programa dispensador de edad con meses y días, es un programa que le permite al usuario conocer los años, meses y días de vida que tiene. El usuario deberá ingresar la fecha actual y luego su fecha de nacimiento, una vez hecho esto el programa arrojara tu edad, mes y días que tienes.*
+
+------------------------------------------------------------------
+
+###**PASOS PARA DESCARGAR, COMPILAR Y EJECUTAR ESTOS PROGRAMAS EN TU MAQUINA:**
+
+1.Crearemos un repositorio con el comando *"mkdir"* al cual le llamaremos git.
+
+2.Entraremos al repositorio con el comamdo *"cd*" mas el nombre del repositorio que acabastes de crear y clonaremos mi repositorio con todos los programas en tu repositorio.
+
+3.Para clonar mi repositorio usaremos el comando *"git clone https://github.com/RodrigoTeixeira03/Programacion.git"*
+
+4.Con el comando *"cd"* mas el nombre de la carpeta que vizualisas en mi repositorio de github podras ingresar a ver todos mis codigos.
+
+5.Para compilarlos deberas de usar el comando *"g++ (el nombre del archivo.cpp) -o (el nuevo nombre que le daras)"*.
+
+6.Si quiere ejecutarlo nomas tendras que utilizar el comando *"./(el nombre del archivo.cpp qie compilastes)"*.
+
+*(Estos pasos son en base al uso de la aplicacion termux o el uso del sistema operativo linux)*
 
 
 
