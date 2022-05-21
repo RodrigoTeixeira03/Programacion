@@ -47,7 +47,7 @@
 
 6.Si quiere ejecutarlo nomas tendras que utilizar el comando *"./(el nombre del archivo.cpp qie compilastes)"*.
 
-*(Estos pasos son en base al uso de la aplicacion termux o el uso del sistema operativo linux)*
+**(Estos pasos son en base al uso de la aplicacion termux o el uso del sistema operativo linux)**
 
 
 
