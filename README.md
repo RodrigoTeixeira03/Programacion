@@ -1,5 +1,4 @@
 # **PROGRAMA EN C++ DE RODRIGO TEIXEIRA GONZALEZ**
-==================================================================
 
 ## **INFORMACION PERSONAL**
 
@@ -30,8 +29,6 @@ Este es el video de mi primera actividad en la carrera de TICS "A"donde me podra
 5.**Dispensador de edad con meses y dias**
 
 *El programa dispensador de edad con meses y días, es un programa que le permite al usuario conocer los años, meses y días de vida que tiene. El usuario deberá ingresar la fecha actual y luego su fecha de nacimiento, una vez hecho esto el programa arrojara tu edad, mes y días que tienes.*
-
-------------------------------------------------------------------
 
 ## **PASOS PARA DESCARGAR, COMPILAR Y EJECUTAR ESTOS PROGRAMAS EN TU MAQUINA:**
 
