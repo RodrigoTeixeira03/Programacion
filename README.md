@@ -9,7 +9,7 @@
 
 ------------------------------------------------------------------
 
-###Este es el video de mi primera actividad en la carrera de TICS "A"donde me podran conocer: [INTRODUCCION A LA PROGRAMACION Y LENGUAJE DE PROGRAMACION] (/https://youtu.be/Kx3TT4q_3_A)
+Este es el video de mi primera actividad en la carrera de TICS "A"donde me podran conocer: [INTRODUCCION A LA PROGRAMACION Y LENGUAJE DE PROGRAMACION] (/https://youtu.be/Kx3TT4q_3_A)
 
 ##**PROGRAMAS QUE HE  DESARROLLADOS:**
 
