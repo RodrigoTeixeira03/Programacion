@@ -1,7 +1,7 @@
-#**PROGRAMA EN C++ DE RODRIGO TEIXEIRA GONZALEZ**
+# **PROGRAMA EN C++ DE RODRIGO TEIXEIRA GONZALEZ**
 ==================================================================
 
-##**INFORMACION PERSONAL**
+## **INFORMACION PERSONAL**
 
 **Nombres:** *Rodrigo Teixeira Gonzalez*
 
@@ -9,7 +9,7 @@
 
 Este es el video de mi primera actividad en la carrera de TICS "A"donde me podran conocer: [INTRODUCCION A LA PROGRAMACION Y LENGUAJE DE PROGRAMACION] (/https://youtu.be/Kx3TT4q_3_A)
 
-##**PROGRAMAS QUE HE  DESARROLLADOS:**
+## **PROGRAMAS QUE HE  DESARROLLADOS:**
 
 1.**Comparacion de dos numeros**
 
@@ -33,7 +33,7 @@ Este es el video de mi primera actividad en la carrera de TICS "A"donde me podra
 
 ------------------------------------------------------------------
 
-##**PASOS PARA DESCARGAR, COMPILAR Y EJECUTAR ESTOS PROGRAMAS EN TU MAQUINA:**
+## **PASOS PARA DESCARGAR, COMPILAR Y EJECUTAR ESTOS PROGRAMAS EN TU MAQUINA:**
 
 1.Crearemos un repositorio con el comando *"mkdir"* al cual le llamaremos git.
 
