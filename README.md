@@ -34,7 +34,7 @@ Este es el video de mi primera actividad en la carrera de TICS "A"donde me podra
 
 1.Crearemos un repositorio con el comando *"mkdir"* al cual le llamaremos git.
 
-2.Entraremos al repositorio con el comamdo *"cd*" mas el nombre del repositorio que acabastes de crear y clonaremos mi repositorio con todos los programas en tu repositorio.
+2.Entraremos al repositorio con el comamdo *"cd"* mas el nombre del repositorio que acabastes de crear y clonaremos mi repositorio con todos los programas en tu repositorio.
 
 3.Para clonar mi repositorio usaremos el comando *"git clone https://github.com/RodrigoTeixeira03/Programacion.git"*
 
